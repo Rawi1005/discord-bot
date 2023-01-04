@@ -17,7 +17,7 @@ async def my_first_command(interaction: Interaction): # you can add more command
 
         await interaction.send(embed=embed,  ephemeral=True ) # after you finish the embed you need to send message back !
 
-        # ephemeral is the message that send and visible just only you but if you want it tovisible to everyone you can set it to false or delete it
+        # ephemeral is the message that send and visible just only you but if you want it to visible to everyone you can set it to false or delete it
 
 
 
@@ -29,14 +29,14 @@ async def my_first_command(interaction: Interaction): # you can add more command
 
 @bot.event
 async def on_ready():
-    print(f"กำลังล็อกอินบอท : {bot.user}") # this just print bot name
+    print(f"loging in : {bot.user}") # this just print bot name
     time.sleep(1.0)
-    print("ล็อกอินสำเร็จ")
+    print("login sucess")
     await bot.change_presence(activity=nextcord.Streaming(name="putyourstatus",url="https://www.twitch.tv/Rawi1005")) # this is the status of the bot
 
 
 
-bot.run("TOKEN")
+bot.run("MTAyNjAzOTM3NTk1NzYxMDUwNg.GOT6bU.WKok10fTDpijS-T77ubyh8X_TBxwf8u53wULFM")
 
 # ⬆️ put your discord bot token here 
 # https://www.writebots.com/discord-bot-token/  website if you need help
