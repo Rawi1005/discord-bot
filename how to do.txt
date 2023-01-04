@@ -12,7 +12,7 @@ Steps Taken
 
 2. edit main.py at the button
 
-3. run!  pytohn main.py
+3. run!  pytohn bot.py
 
 
 usefull website
