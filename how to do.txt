@@ -1,0 +1,30 @@
+Hello and Welcome New Discord Developer :D
+You can follow this instructions
+
+*** requirement !! ***
+
+Python
+
+
+Steps Taken
+
+1. pip install -r requirement.txt
+
+2. edit main.py at the button
+
+3. run!  pytohn main.py
+
+
+usefull website
+
+https://discord.com/developers/applications
+
+for making discord bot
+
+https://www.python.org/
+
+for downloading python
+
+
+
+ask for help Discord Rawi N#5875
