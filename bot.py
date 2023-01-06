@@ -36,7 +36,7 @@ async def on_ready():
 
 
 
-bot.run("MTAyNjAzOTM3NTk1NzYxMDUwNg.GOT6bU.WKok10fTDpijS-T77ubyh8X_TBxwf8u53wULFM")
+bot.run("TOKEN")
 
 # ⬆️ put your discord bot token here 
 # https://www.writebots.com/discord-bot-token/  website if you need help
